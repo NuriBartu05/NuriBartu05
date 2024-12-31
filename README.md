@@ -1,4 +1,6 @@
-## Hi there 👋
+NuriBartu
+
+I'm researcher in Blockchain and Cryptocurrecy. I have been running nodes and validating them for 3 years. I love crypto and I'm trying to improve myself.
 
 <!--
 **NuriBartu05/NuriBartu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
